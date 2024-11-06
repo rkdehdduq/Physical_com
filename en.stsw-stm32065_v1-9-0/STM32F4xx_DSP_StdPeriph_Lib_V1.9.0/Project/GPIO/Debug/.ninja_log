@@ -1,0 +1,27 @@
+# ninja log v5
+0	501	7194870377047804	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/GPIO/Debug/Obj/main.o	67dc61504cc0efc1
+79	129	7194870474420262	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/GPIO/Debug/Obj/startup_stm32f40_41xxx.o	f5fd89dfee283cf7
+2	477	7194870477787208	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/GPIO/Debug/Obj/main.o	67dc61504cc0efc1
+74	540	7194870478346248	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/GPIO/Debug/Obj/stm32f4xx_it.o	d65e121e15760a1d
+70	549	7194870478346248	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/GPIO/Debug/Obj/stm32f4xx_gpio.o	efedee31dbf10f70
+84	584	7194870478880142	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/GPIO/Debug/Obj/system_stm32f4xx.o	8831749658b2fd7d
+91	703	7194870480009036	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/GPIO/Debug/Obj/stm32f4xx_rcc.o	f972ca15a7b5ba26
+706	856	7194870481649972	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/GPIO/Debug/Exe/GPIO.out	ff154e116e5a8840
+859	872	7194870481962390	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/GPIO/Debug/Exe/GPIO.hex	8eb388e31e630d67
+1	398	7194870727920492	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/GPIO/Debug/Obj/main.o	67dc61504cc0efc1
+20	55	7194870795898318	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/GPIO/Debug/Obj/startup_stm32f40_41xxx.o	f5fd89dfee283cf7
+3	366	7194870798683930	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/GPIO/Debug/Obj/main.o	67dc61504cc0efc1
+27	585	7194870800631969	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/GPIO/Debug/Obj/stm32f4xx_it.o	d65e121e15760a1d
+10	592	7194870800631969	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/GPIO/Debug/Obj/stm32f4xx_gpio.o	efedee31dbf10f70
+15	595	7194870800788166	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/GPIO/Debug/Obj/stm32f4xx_rcc.o	f972ca15a7b5ba26
+33	635	7194870801377237	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/GPIO/Debug/Obj/system_stm32f4xx.o	8831749658b2fd7d
+638	704	7194870802400667	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/GPIO/Debug/Exe/GPIO.out	ff154e116e5a8840
+708	720	7194870802556861	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/GPIO/Debug/Exe/GPIO.hex	8eb388e31e630d67
+22	61	7194905465393166	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/GPIO/Debug/Obj/startup_stm32f40_41xxx.o	f5fd89dfee283cf7
+10	368	7194905468245306	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/GPIO/Debug/Obj/main.o	67dc61504cc0efc1
+3	415	7194905468714081	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/GPIO/Debug/Obj/stm32f4xx_gpio.o	efedee31dbf10f70
+27	427	7194905468870319	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/GPIO/Debug/Obj/system_stm32f4xx.o	8831749658b2fd7d
+15	467	7194905469302043	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/GPIO/Debug/Obj/stm32f4xx_it.o	d65e121e15760a1d
+34	554	7194905470089478	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/GPIO/Debug/Obj/stm32f4xx_rcc.o	f972ca15a7b5ba26
+557	659	7194905471290291	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/GPIO/Debug/Exe/GPIO.out	ff154e116e5a8840
+662	675	7194905471602866	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/GPIO/Debug/Exe/GPIO.hex	8eb388e31e630d67

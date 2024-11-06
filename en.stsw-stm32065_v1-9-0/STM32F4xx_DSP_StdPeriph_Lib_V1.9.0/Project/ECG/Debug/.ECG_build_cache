@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>C:\Users\rkdehdduq12\Desktop\Physical_Com\en.stsw-stm32065_v1-9-0\STM32F4xx_DSP_StdPeriph_Lib_V1.9.0\Project\ECG\Debug\Exe\ECG.out</Path>
+            <Output>
+                <Path>C:\Users\rkdehdduq12\Desktop\Physical_Com\en.stsw-stm32065_v1-9-0\STM32F4xx_DSP_StdPeriph_Lib_V1.9.0\Project\ECG\Debug\List\ECG.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>

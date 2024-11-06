@@ -1,0 +1,26 @@
+# ninja log v5
+625	677	7203419058495894	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/FND/Debug/Obj/startup_stm32f40_41xxx.o	8b0e441b09c092d5
+1212	1230	7203419064118500	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/FND/Debug/Exe/FND.hex	3e21087a2096c4bc
+84	635	7203419057615784	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/FND/Debug/Obj/stm32f4xx_gpio.o	f77a974a5d8385f9
+542	938	7203419060980236	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/FND/Debug/Obj/stm32f4xx_it.o	f044a6ea6c402f7
+605	1000	7203419061620267	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/FND/Debug/Obj/system_stm32f4xx.o	26befc74c0c7e214
+77	669	7203419057775797	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/FND/Debug/Obj/main.o	f8ac274534bf1c7a
+94	801	7203419059535965	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/FND/Debug/Obj/stm32f4xx_rcc.o	94801c8e1c57a87f
+1005	1205	7203419063638444	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/FND/Debug/Exe/FND.out	b3d18b55a36f525
+5	537	7203419056895708	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/FND/Debug/Obj/misc.o	e6fdf7e536c3d60a
+104	617	7203419057375741	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/FND/Debug/Obj/stm32f4xx_syscfg.o	437591dea227ec86
+113	599	7203419057455758	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/FND/Debug/Obj/stm32f4xx_exti.o	b1f1845536a5c311
+2	1384	7229608902588860	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/FND/Debug/Obj/main.o	f8ac274534bf1c7a
+19	560	7229608952913009	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/FND/Debug/Exe/FND.out	b3d18b55a36f525
+563	660	7229608954257247	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/FND/Debug/Exe/FND.hex	3e21087a2096c4bc
+52	775	7229609061602775	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/FND/Debug/Obj/main.o	f8ac274534bf1c7a
+5	910	7229609062843063	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/FND/Debug/Obj/misc.o	e6fdf7e536c3d60a
+70	1154	7229609064283377	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/FND/Debug/Obj/stm32f4xx_gpio.o	f77a974a5d8385f9
+60	1172	7229609063363168	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/FND/Debug/Obj/stm32f4xx_exti.o	b1f1845536a5c311
+916	1267	7229609066293416	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/FND/Debug/Obj/startup_stm32f40_41xxx.o	8b0e441b09c092d5
+80	1275	7229609065733706	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/FND/Debug/Obj/stm32f4xx_it.o	f044a6ea6c402f7
+777	1534	7229609069124226	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/FND/Debug/Obj/stm32f4xx_syscfg.o	437591dea227ec86
+91	1541	7229609069124226	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/FND/Debug/Obj/stm32f4xx_rcc.o	94801c8e1c57a87f
+1161	1823	7229609072109068	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/FND/Debug/Obj/system_stm32f4xx.o	26befc74c0c7e214
+1829	1974	7229609073694085	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/FND/Debug/Exe/FND.out	b3d18b55a36f525
+1979	2028	7229609074524084	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/FND/Debug/Exe/FND.hex	3e21087a2096c4bc

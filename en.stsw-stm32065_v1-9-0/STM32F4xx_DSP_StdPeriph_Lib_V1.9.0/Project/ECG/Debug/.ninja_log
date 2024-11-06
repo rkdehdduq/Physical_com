@@ -1,0 +1,14 @@
+# ninja log v5
+29	486	7239435782684319	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/ECG/Debug/Obj/stm32f4xx_it.o	256135539ae4e067
+25	496	7239435782775742	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/ECG/Debug/Obj/stm32f4xx_adc.o	9a51c0e9d2ba7f51
+41	535	7239435783019155	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/ECG/Debug/Obj/stm32f4xx_syscfg.o	253295a1c52b7808
+12	441	7239435782250689	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/ECG/Debug/Obj/misc.o	5aa6950e80f119e3
+402	764	7239435785600893	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/ECG/Debug/Obj/stm32f4xx_gpio.o	2d7258d4464d879f
+1011	1024	7239435788411535	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/ECG/Debug/Exe/ECG.hex	1a8ce3d3d733f2ed
+500	806	7239435786010983	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/ECG/Debug/Obj/system_stm32f4xx.o	8d4ed63e008bbab1
+21	400	7239435781926325	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/ECG/Debug/Obj/main.o	71bff23bac167829
+539	585	7239435783953927	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/ECG/Debug/Obj/startup_stm32f40_41xxx.o	abe2c07a92ceee7f
+46	657	7239435784485619	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/ECG/Debug/Obj/stm32f4xx_rcc.o	603844cf2ba89abc
+489	816	7239435786131011	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/ECG/Debug/Obj/stm32f4xx_usart.o	c2723b7cafaf349b
+445	902	7239435786991206	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/ECG/Debug/Obj/stm32f4xx_tim.o	ad327b82a9e646e9
+905	1009	7239435788121458	C:/Users/rkdehdduq12/Desktop/Physical_Com/en.stsw-stm32065_v1-9-0/STM32F4xx_DSP_StdPeriph_Lib_V1.9.0/Project/ECG/Debug/Exe/ECG.out	88a81ac63e6dfeb2
